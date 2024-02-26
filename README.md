@@ -27,4 +27,4 @@ Congrats, you now have the daily standings in JSON format stored in `message`!
 
 
 ## UML Diagram
-![UML diagram showing request-response pattern](https://github.com/jscervantes/CS351-Microservice/image.jpg?raw=true)
+![UML diagram showing request-response pattern](https://github.com/jscervantes/CS351-Microservice/microservice-UML-diagrams.png?raw=true)
